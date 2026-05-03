@@ -1,65 +1,77 @@
-# My Portfolio Website - Overview 🚀
+🌐 Portfolio Website
 
-This repository contains the open-source version of my personal portfolio website.  
-Feel free to explore the code and use it for learning and inspiration.
+Welcome to my personal portfolio website! This project showcases my skills, projects, and experience as a Frontend / MERN Stack Developer.
 
----
+🚀 Live Demo
 
-## ⚠️ Usage Notice
+👉 View Portfolio
 
-This project is shared for learning purposes only.
+📌 Features
+✨ Modern and responsive UI
+⚡ Fast performance with optimized assets
+🎯 Clean and user-friendly design
+📱 Fully mobile responsive
+📂 Projects showcase section
+📞 Contact form integration
+🛠️ Tech Stack
+Frontend: HTML, CSS, JavaScript, React.js
+Styling: Tailwind CSS
+Version Control: Git & GitHub
+Deployment: Vercel
+📸 Screenshots
 
-Please do NOT:
-- Clone or replicate the full website or design
-- Repost it with minor content changes
-- Use this project for commercial/client work
-- Create tutorials or content using this exact project
+Add your project screenshots here
 
-If you use parts of the code, you must provide proper credit linking back to the original repository.
+📁 Folder Structure
+Portfolio-Website/
+│── public/
+│── src/
+│   ├── components/
+│   ├── assets/
+│   ├── pages/
+│   └── App.js
+│── package.json
+│── README.md
+⚙️ Installation & Setup
 
-Build your own version — don’t just copy.
+Follow these steps to run the project locally:
 
-— Moncy Yohannan
+# Clone the repository
+git clone https://github.com/your-username/Portfolio-Website.git
 
----
+# Navigate to project folder
+cd Portfolio-Website
 
-## 🛠️ Instructions
+# Install dependencies
+npm install
 
-I have modified the GSAP Club plugins using trial versions.  
-⚠️ Note: Trial plugins cannot be used for production or hosting.
+# Start development server
+npm run dev
+🌍 Deployment
 
-For official GSAP Club plugins, refer here:  
-https://gsap.com/docs/v3/Installation/
+This project is deployed using Vercel:
 
----
+npm run build
 
-## ⚙️ Tech Stack
+Then upload the dist folder to Vercel.
 
-React • TypeScript • GSAP • Three.js • WebGL • HTML • CSS • JavaScript
+👨‍💻 About Me
 
----
+Hi, I’m Abhishek Gorkha, a passionate MERN Stack Developer.
 
-## 🎨 Assets Usage
+💼 Frontend Developer
+🚀 Interested in Web Development & AI
+📧 Email: gorkhaabhishek1@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/abhishek-gorkha
+🤝 Contributing
 
-Some 3D assets included in this repository are free to use for learning purposes.
+Contributions are welcome!
+Feel free to fork the repo and submit a pull request.
 
-However:
+⭐ Show Your Support
 
-- The original 3D avatar used on my live portfolio is NOT included in this repository
-- That avatar is a custom asset created over ~1 month
-- It is not open source and not available for reuse
+If you like this project, please give it a ⭐ on GitHub!
 
-Any usage, extraction, or redistribution of that avatar from my live website is strictly prohibited.
+📜 License
 
----
-
-![Protfolio-Preview](https://github.com/user-attachments/assets/3c4557e7-6392-4928-b8a9-7b2476ef4edd)
-
----
-
-## 📄 License
-
-This project is licensed under the Personal Portfolio License (PPL) v1.0.
-
-See the LICENSE file for full details
-
+This project is licensed under the MIT License.
